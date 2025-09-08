@@ -1,9 +1,9 @@
-<img width="1881" height="847" alt="Dashborad png" src="https://github.com/user-attachments/assets/1d28c5a9-e597-4ec3-bd95-9d39e5ca2a54" />
 
 # Fight-booking-dashboard-
 An interactive Excel dashboard built with PivotTables and PivotCharts to analyze flight bookings, track KPIs, explore sales channels, and highlight top travel patterns.
 # ✈️ Flight Booking Dashboard  
 An interactive **Excel Dashboard** built with **PivotTables** and **PivotCharts** to analyze flight booking data, track KPIs, and uncover insights about customer behavior and sales channel performance.  
+<img width="1881" height="847" alt="Dashborad png" src="https://github.com/user-attachments/assets/1d28c5a9-e597-4ec3-bd95-9d39e5ca2a54" />
 
 ---
 
@@ -44,13 +44,7 @@ The dashboard helps identify booking trends, top destinations, sales channel per
 - Top routes and destinations  
 - Conversion rate and average purchase lead time  
 
----
 
-## 🚀 How to Use  
-1. Download the Excel file from this repository.  
-2. Open it in Microsoft Excel (2016 or later recommended).  
-3. Use the slicers to filter data by **Channel, Trip Type, or Flight Hour**.  
-4. Explore charts and KPIs for interactive insights.  
 
 ---
 
