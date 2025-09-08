@@ -55,7 +55,6 @@ The dashboard helps identify booking trends, top destinations, sales channel per
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](images/Dashboard.png)
 ---
 
 ## 📂 Repository Structure  
