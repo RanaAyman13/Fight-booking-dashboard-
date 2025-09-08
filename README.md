@@ -1,4 +1,5 @@
-![Dashboard Preview](images/Dashborad.png)
+<img width="1881" height="847" alt="Dashborad png" src="https://github.com/user-attachments/assets/1d28c5a9-e597-4ec3-bd95-9d39e5ca2a54" />
+
 # Fight-booking-dashboard-
 An interactive Excel dashboard built with PivotTables and PivotCharts to analyze flight bookings, track KPIs, explore sales channels, and highlight top travel patterns.
 # ✈️ Flight Booking Dashboard  
