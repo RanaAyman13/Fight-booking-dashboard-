@@ -1,7 +1,7 @@
 # Fight-booking-dashboard-
 An interactive Excel dashboard built with PivotTables and PivotCharts to analyze flight bookings, track KPIs, explore sales channels, and highlight top travel patterns.
 # ✈️ Flight Booking Dashboard  
-
+![Dashboard Preview](images/Dashboard.png)
 An interactive **Excel Dashboard** built with **PivotTables** and **PivotCharts** to analyze flight booking data, track KPIs, and uncover insights about customer behavior and sales channel performance.  
 
 ---
